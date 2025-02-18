@@ -1,0 +1,30 @@
+tap "buo/cask-upgrade"
+tap "homebrew/bundle"
+brew "mas"
+brew "ripgrep"
+brew "stow"
+brew "vim"
+cask "bambu-studio"
+cask "chatgpt"
+cask "discord"
+cask "itsycal"
+cask "keepingyouawake"
+cask "latest"
+cask "obsidian"
+cask "pocket-casts"
+cask "rectangle"
+mas "BusyCal", id: 567245998
+mas "GarageBand", id: 682658836
+mas "Hand Mirror", id: 1502839586
+mas "HP Smart", id: 1474276998
+mas "iMovie", id: 408981434
+mas "Irvue", id: 1039633667
+mas "Keynote", id: 409183694
+mas "Kindle", id: 302584613
+mas "Messenger", id: 1480068668
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Perplexity", id: 6714467650
+mas "Save to Reader", id: 1640236961
+mas "Things", id: 904280696
+mas "Xcode", id: 497799835
